@@ -8,7 +8,7 @@ Sample Code
 
 ``` C++
 
-// This is a test case with a name
+// This is a test case with a name.
 XL_NAMED_TEST_CASE(TestCaseWithName)
 {
 	// Inside a case, you can write test asserts.
